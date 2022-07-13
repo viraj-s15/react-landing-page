@@ -1,7 +1,7 @@
 <font size=5>
 <b>
-I just learned Tailwind css and wanted to test is otu with
-react. This is a static responsive website oof a generic finance company.
+I just learned Tailwind css and wanted to test it out with
+react. This is a static responsive website of a generic finance company.
 
 ---
 

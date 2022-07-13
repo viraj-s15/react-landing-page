@@ -15,11 +15,12 @@ yarn
 make sure to install tailwind if you have not
 yarn run dev
 ```
+---
+
+https://user-images.githubusercontent.com/79002760/178803414-c9c80c96-026e-4b40-8fca-bade57b933fd.mp4
 
 ---
 
-[](../../Videos/Obs/full_screen.mp4)
+https://user-images.githubusercontent.com/79002760/178803427-61a15e74-2a70-4f16-9b22-521708478100.mp4
 
----
 
-[](../../Videos/Obs/responsive.mp4)
